@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **matteomorellinio8@gmail.com**
 
-- 📄 Know about my experiences [https://cv.matteomorellini.com](cv.matteomorellini.com)
+- 📄 Know about my experiences [cv.matteomorellini.com](https://cv.matteomorellini.com)
 
 - ❓ Which animal invented a new dance? **The hip-hop-potamus**
 
