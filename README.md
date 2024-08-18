@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😁, I'm Matteo!</h1>
-<h3 align="center">A CS student from Italy</h3>
+<h3 align="center">A CS student from Italy, passionate about cloud and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteomorellini&label=Profile%20views&color=0e75b6&style=flat" alt="matteomorellini" /> </p>
 
