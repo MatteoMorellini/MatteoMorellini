@@ -9,11 +9,9 @@
 
 - 🤝 I’m looking to collaborate on **diffusion models with DP**
 
-- 👨‍💻 All of my projects are available at [portfolio.matteomorellini.com](portfolio.matteomorellini.com)
+- 👨‍💻 All of my projects are available at [portfolio.matteomorellini.com](https://portfolio.matteomorellini.com)
 
 - 📫 How to reach me **matteomorellinio8@gmail.com**
-
-- 📄 Know about my experiences [cv.matteomorellini.com](https://cv.matteomorellini.com)
 
 - ❓ Which animal invented a new dance? **The hip-hop-potamus**
 
